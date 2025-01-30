@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Estou cursando  o 2º semestre de Análise e Desenvolvimento de Sistemas no SENAI Gaspar Ricardo Junior
-- 🌱 Estou focado no aprendizado de análise de dados, principalmente em Python
+- 🔭 Estou cursando  o 3º semestre de Análise e Desenvolvimento de Sistemas no SENAI Gaspar Ricardo Junior
+- 🌱 Estou focado no aprendizado de análise de dados
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFigueiredo&layout=pie)](https://github.com/JulioFigueiredo/github-readme-stats)
