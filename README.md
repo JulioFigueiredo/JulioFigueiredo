@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou cursando  o 3º semestre de Análise e Desenvolvimento de Sistemas no SENAI Gaspar Ricardo Junior
+- 🔭 Estou cursando  o 4º semestre de Análise e Desenvolvimento de Sistemas no SENAI Gaspar Ricardo Junior
 - 🌱 Estou focado no aprendizado de análise de dados
 
 
