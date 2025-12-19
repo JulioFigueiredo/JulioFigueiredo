@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Estou cursando  o 4º semestre de Análise e Desenvolvimento de Sistemas no SENAI Gaspar Ricardo Junior
+- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas
 - 🌱 Sou desenvolvedor de Software e entusiasta da área de Dados e IA
 
 
