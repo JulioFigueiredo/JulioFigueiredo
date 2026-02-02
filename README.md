@@ -35,6 +35,9 @@
           
 <hr>
 
+### 🐍 Minha Atividade no GitHub
+![snake ascii art](https://github.com/SeuUsuario/SeuUsuario/blob/output/github-contribution-grid-snake.svg)
+
 
           
           
