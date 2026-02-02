@@ -7,8 +7,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JulioFigueiredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFigueiredo&layout=compact&theme=dark" alt="Top Langs" />
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=JulioFigueiredo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulioFigueiredo&layout=compact&theme=dark" alt="Linguagens Mais Usadas" /> </p>
 </div>
 
 <h1>Habilidades</h1>
