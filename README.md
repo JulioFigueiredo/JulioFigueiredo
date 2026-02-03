@@ -37,7 +37,7 @@
 <hr>
 
 ### 🐍 Minha Atividade no GitHub
-![snake](https://github.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/blob/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/JulioFigueiredo/JulioFigueiredo/output/github-contribution-grid-snake.svg)
 
 
           
