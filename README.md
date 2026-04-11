@@ -3,7 +3,7 @@
 
 
 - 🔭 Sou formado em Análise e Desenvolvimento de Sistemas
-- 🌱 Sou Desenvolvedor de Software e entusiasta da área de Dados e IA
+- 🌱 Sou Desenvolvedor de Software e entusiasta de IA
 
 <h1>Habilidades</h1>
 
