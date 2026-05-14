@@ -93,10 +93,16 @@
 <h1>Contato</h1>
 
 <a href="https://www.linkedin.com/in/julio-figueiredo-1772932a6/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width=60px/>
-</a> <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSGMvhdMVHjqgDgFPKhsRxjkGVKbwKwtjRpfFvRsBtllhrkpHrqjwCHXsdhgRtJmMTWWrVSC">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25px/>
-</a>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+/>
+
+</a> 
           
 <hr>
 
