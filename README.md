@@ -69,7 +69,7 @@
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" 
 />
 <img 
     align="left" 
@@ -94,7 +94,6 @@
 
 <a href="https://www.linkedin.com/in/julio-figueiredo-1772932a6/">
 <img 
-    align="left" 
     alt="LinkedIn" 
     title="LinkedIn"
     width="30px" 
@@ -104,9 +103,8 @@
 
 </a> 
           
-<hr>
+<h1>Minha Atividade no GitHub</h1>
 
-### 🐍 Minha Atividade no GitHub
 ![snake](https://raw.githubusercontent.com/JulioFigueiredo/JulioFigueiredo/output/github-contribution-grid-snake.svg)
 
 
