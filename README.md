@@ -1,11 +1,11 @@
-## Olá, eu sou Júlio Figueiredo
+# Hi, I'm Júlio Figueiredo 👋
 
+Backend-focused Software Developer from Brazil 🇧🇷, building APIs and AI-powered applications with Python & FastAPI.
 
+- 🎓 Degree in Systems Analysis and Development (SENAI)
+- 🤖 Currently focused on backend engineering, LLMs, RAG and AI Agents
 
-- 🔭 Sou formado em Análise e Desenvolvimento de Sistemas
-- 🌱 Sou Desenvolvedor de Software e entusiasta de IA
-
-<h1>Habilidades</h1>
+<h1>Skills</h1>
 
 <img 
     align="left" 
@@ -90,7 +90,7 @@
 
 </br>
 
-<h1>Contato</h1>
+<h1>Contact</h1>
 
 <a href="https://www.linkedin.com/in/julio-figueiredo-1772932a6/">
 <img 
@@ -103,7 +103,7 @@
 
 </a> 
           
-<h1>Minha Atividade no GitHub</h1>
+<h1>GitHub Activity</h1>
 
 ![snake](https://raw.githubusercontent.com/JulioFigueiredo/JulioFigueiredo/output/github-contribution-grid-snake.svg)
 
